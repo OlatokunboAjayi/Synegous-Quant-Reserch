@@ -62,7 +62,7 @@ graph LR
 ### 1. Provision Environment
 Clone the repo and initialize your secrets:
 ```bash
-git clone https://github.com/tokunboajayi/Synegous-Quant-Reserch.git
+git clone https://github.com/OlatokunboAjayi/Synegous-Quant-Reserch.git
 cp .env.example .env
 ```
 
